@@ -1,2 +1,2 @@
 # PyCsv2Sqlite
-Simple Script Csv to Sqlite3 DB
+A Simple Python Script for insert Csv content to table (Sqlite3 DB)
